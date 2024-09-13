@@ -22,7 +22,7 @@ A visually stunning pathfinding visualization app built with **React**, **Tailwi
 
 ## 🎥 Demo
 
-Check out a live demo of the Pathfinding Visualizer [Link](https://pathfinder-adi.vercel.app/) (add your live link).
+Check out a live demo of the Pathfinding Visualizer [Link](https://pathfinder-adi.vercel.app/)
 
 ## 📚 Algorithms Implemented
 
