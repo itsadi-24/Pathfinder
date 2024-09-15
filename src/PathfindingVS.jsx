@@ -24,10 +24,10 @@ const PADDING = 200;
 const MAX_ROW = Math.floor((window.innerHeight - PADDING) / CELL_SIZE);
 if (MAX_ROW > rows) rows = MAX_ROW >= 19 ? 19 : MAX_ROW; // Rows = [13, 19]
 
-var START_NODE_ROW = 4,
-  START_NODE_COL = 6;
-var END_NODE_ROW = rows - 6,
-  END_NODE_COL = cols - 6;
+var START_NODE_ROW = 8,
+  START_NODE_COL = 9;
+var END_NODE_ROW = rows - 9,
+  END_NODE_COL = cols - 10;
 var INIT_START_ROW = START_NODE_ROW,
   INIT_START_COL = START_NODE_COL;
 var INT_END_ROW = END_NODE_ROW,
